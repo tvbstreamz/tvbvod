@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.tvbvod" name="[COLOR red][B]TVB Repo[/B][/COLOR]" version="1.0" provider-name="Elitt3r">
+	<extension point="xbmc.addon.repository" name="TVB Repo">
+		<info compressed="false">http://tvbstreamz.net/repo/addon.xml</info>
+		<checksum>http://tvbstreamz.net/repo/addon.xml.md5</checksum>
+		<datadir zip="true">http://tvbstreamz.net/Addons/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+    <description lang="en">Repository for the TVB</description>
+    <disclaimer lang="en">For help and support ... Please visit our group on Twitter </disclaimer>
+    <language></language>
+    <platform>all</platform>
+    <license>GNU GENERAL PUBLIC LICENSE.  Version 3, 29 June 2007</license>
+    <forum></forum>
+    <website></website>
+    <email>support@tvbstreamz.net</email>
+    <source></source>
+    <news></news>
+    <assets>
+        <icon></icon>
+        <fanart></fanart>
+        <screenshot></screenshot>
+        <screenshot></screenshot>
+        <screenshot></screenshot>
+        <screenshot></screenshot>        
+    </assets>
+  </extension>
+</addon>
